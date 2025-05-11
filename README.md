@@ -4,14 +4,14 @@ I'm a **MERN stack developer** who is passionate about Web3 and blockchain techn
 
 ## About Me 😃
 
-- 🌟 MERN Stack Developer
+- 🌟 BlockChain Developer
 - 🌉 Building the bridge between Web2 and Web3
 - 🔐 Enthusiastic about decentralized technologies
 - 📚 Constantly learning and growing
 
 ## What I'm Working On 🛠️
 - **Trading & Staking** Developed bespoke trading and staking solutions tailored to meet specific client requirements
-- **Web3 Projects:** Exploring smart contracts, DeFi solutions, and blockchain integrations
+- **Web3 Projects:** Writing smart contracts, DeFi solutions, and blockchain integrations
 
 ## Get in Touch 📬
 
@@ -26,6 +26,7 @@ I'm a **MERN stack developer** who is passionate about Web3 and blockchain techn
 
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express.js
+- **Blockchain:** L1 & L2 Solutions, Solidity, Arbitrum, ZKSync, DeFi and etc,
 - **Database:** MongoDB
 - **Tools:** Git, Visual Studio Code, Hardhat, Foundry
 
