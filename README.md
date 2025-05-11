@@ -1,41 +1,54 @@
-# Hello, I'm Mohamed! 👋
+# Mohamed Ibrahim 👋
 
-I'm a **MERN stack developer** who is passionate about Web3 and blockchain technology. 🚀 I love exploring new ideas and building innovative projects. My journey into the world of decentralized technologies has been thrilling, and I'm eager to dive deeper into blockchain development in the future. 🌐
+**Blockchain Developer** working at the intersection of Web3 and decentralised technologies.
 
-## About Me 😃
+I enjoy building smart contracts, DeFi applications, and tools that connect Web2 and Web3. I’m always exploring new ideas and improving my skills to contribute to the evolving blockchain space.
 
-- 🌟 BlockChain Developer
-- 🌉 Building the bridge between Web2 and Web3
-- 🔐 Enthusiastic about decentralized technologies
-- 📚 Constantly learning and growing
+---
 
-## What I'm Working On 🛠️
-- **Trading & Staking** Developed bespoke trading and staking solutions tailored to meet specific client requirements
-- **Web3 Projects:** Writing smart contracts, DeFi solutions, and blockchain integrations
+## About Me
 
-## Get in Touch 📬
+* 🛠️ Blockchain developer focused on smart contracts and DeFi
+* 🌉 Bridging Web2 and Web3 through practical integrations
+* 🔐 Interested in decentralisation, scalability, and security
+* 📚 Always learning and keeping up with blockchain advancements
 
-- [GitHub](https://github.com/mohamed-Decentralized) 👨‍💻
+---
 
-## Fun Facts 🎉
+## Current Work
 
-- 🌍 I'm passionate about contributing to open-source projects and the developer community.
-- 📈 Always excited to learn about the latest trends in technology and blockchain.
+* **Trading & Staking Solutions**
+  Custom-built platforms designed for client-specific needs
+* **Web3 Projects**
+  Smart contracts, DeFi protocols, and blockchain app integrations
 
-## Skills 🛠️
+---
 
-- **Frontend:** React.js, Next.js
-- **Backend:** Node.js, Express.js
-- **Blockchain:** L1 & L2 Solutions, Solidity, Arbitrum, ZKSync, DeFi and etc,
-- **Database:** MongoDB
-- **Tools:** Git, Visual Studio Code, Hardhat, Foundry
+## Skills
 
-## My Goals 🚀
+* **Smart Contracts & Blockchain:** Solidity, Arbitrum, zkSync, Hardhat, Foundry
+* **Frontend:** React.js, Next.js
+* **Backend:** Node.js, Express.js
+* **Databases:** MongoDB
+* **Tools:** Git, VS Code
 
-- 🌐 Contribute to the decentralized web
-- 💡 Develop innovative blockchain solutions
-- 📈 Grow as a blockchain developer
+---
 
-## Thanks for Stopping By! 😊
+## Goals
 
-Feel free to explore my repositories and get in touch! 🌟
+* Contribute to open-source blockchain projects
+* Keep working hard to make web3 secure
+* Continue growing as a blockchain developer
+
+---
+
+## Get in Touch
+
+* [GitHub](https://github.com/mohamed-Decentralized)
+
+---
+
+## Extras
+
+* 🌍 Open-source contributor and community supporter
+* 📈 Always interested in blockchain trends and emerging tech
